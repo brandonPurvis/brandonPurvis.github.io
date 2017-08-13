@@ -18,3 +18,11 @@ image_url: "https://avatars3.githubusercontent.com/u/6082535?v=4&u=04ce491001112
 
 # Build settings
 markdown: kramdown
+
+# Custom collections
+collections:
+  projects:
+    defaults:
+      values:
+        layout: post
+    output: true
