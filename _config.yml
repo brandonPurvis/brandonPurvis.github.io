@@ -11,9 +11,12 @@ email: your-email@domain.com
 description:  My place for things.
 baseurl: "/brandonPurvis.github.io" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-content_url: "https://raw.githubusercontent.com/brandonPurvis/brandonPurvis.github.io/master"
 twitter_username: jekyllrb
 github_username:  jekyll
+
+
+content_url: "https://raw.githubusercontent.com/brandonPurvis/brandonPurvis.github.io/master"
+image_url: "https://avatars3.githubusercontent.com/u/6082535?v=4&u=04ce491001112b6598f88e02c29f8d705a45d030&s=400"
 
 # Build settings
 markdown: kramdown
