@@ -18,7 +18,7 @@ layout: default
       <span class="card-title">Projects</span>
 
       <ul class="post-list">
-        {% for post in site.projects %}
+        {% for post in site.data.projects %}
           <li>
             <span class="post-meta">{{ post.date }}</span>
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>            
