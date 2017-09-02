@@ -26,3 +26,9 @@ collections:
       values:
         layout: post
     output: true
+
+  posts:
+    defaults:
+      values:
+        layout: post
+    output: true
