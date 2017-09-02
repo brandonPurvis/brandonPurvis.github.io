@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Installing PyCharm on Debian"
-categories: web app
+categories: how-to
 ---
 
 1. Download Pycharm
