@@ -7,7 +7,7 @@
 
 # Site settings
 title: Brandon Purvis
-email: your-email@domain.com
+email: ""
 description: "A Cool Things Creator | A Python Poet | A Life-Long Learner" 
 baseurl: "/brandonPurvis.github.io" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site

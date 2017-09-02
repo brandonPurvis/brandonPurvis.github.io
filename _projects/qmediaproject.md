@@ -4,7 +4,7 @@ title: "Q Media Project"
 categories: web app
 ---
 
-Site: http://web-dev.nqa6jirgcc.us-west-2.elasticbeanstalk.com
+Site: http://qmp.bcpmax.com
 
 # Goal: 
     Showcase the work of LGBTQ+ YouTube Content creators, and untimatly create a as-exhaustive-as-possible list of LGBTQ+ content creators.
